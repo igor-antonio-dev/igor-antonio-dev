@@ -1,6 +1,6 @@
 
 
-## Hi! My name is Igor and this is my GitHub 🤓👾👨‍💻
+## Hi! This is my GitHub 🤓👾👨‍💻
 
  Here i will commit everything that is cool and pratical involving technology.
  Note: My favorite language is Java.
