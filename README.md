@@ -1,10 +1,3 @@
-
-
-## Whats up dude! This is my GitHub 🤓👾👨‍💻
-
- Here i will commit everything that is cool and pratical involving technology.
- Note: My favorite language is Java.
-
 </div>
 
   ##
